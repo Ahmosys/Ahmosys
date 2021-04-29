@@ -3,3 +3,9 @@
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=ahmosys&theme=vue&show_icons=true"
 />
+
+<img
+      align="center"
+      height="138"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmosys&theme=vue&layout=compact"
+/>
