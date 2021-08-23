@@ -38,4 +38,7 @@
 <img align="left" alt="VSStudio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 <img align="left" alt="ApacheNetBeans" src="https://img.shields.io/badge/Apache_NetBeans_IDE-239120?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white" /><img align="left" alt="Arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 
+<br />
+
+---
 [![Spotify](https://novatorem-ahmosys.vercel.app/api/spotify)](https://open.spotify.com/user/62o14qn9luk8fag1f2dckp1tm)
