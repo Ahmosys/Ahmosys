@@ -7,7 +7,6 @@
 <br />
 
 ---
-
 ### ➕ Windows Development 
 <img align="left" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img align="left" alt="VB.NET" src="https://img.shields.io/badge/VB.NET-6B4683?style=for-the-badge&logo=microsoft&logoColor=white" />
