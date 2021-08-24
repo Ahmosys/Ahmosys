@@ -3,7 +3,7 @@
   <img alt="GifTerminalLinux" src="https://i.imgur.com/oGVhsqW.gif" />
 </div>
 
-## KNOWLEDGE 👨🏾‍💻
+## 👨🏼‍💻 KNOWLEDGE
 ### ➕ OS
 <img align="left" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img align="left" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
