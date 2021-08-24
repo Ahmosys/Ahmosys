@@ -2,6 +2,9 @@
   <h2>Hi, I'm Ahmosys !&nbsp;<img alt="EmojiHand" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" heigh="20px"/></h2>
   <img alt="GifTerminalLinux" src="https://i.imgur.com/oGVhsqW.gif" />
   <h4>French student in South of France.</h4>
+  
+  ![Profil Views](https://komarev.com/ghpvc/?username=ahmosys&style=flat-square&color=lightgrey)
+
 </div>
 
 ## 👨🏼‍💻 KNOWLEDGE
@@ -65,4 +68,4 @@
       
 <br /> ![Ahmosys's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmosys&show_icons=true&theme=graywhite&layout=compact)
   </td>
-  </table>
+ </table>
