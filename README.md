@@ -47,10 +47,13 @@
 
 
 ## 🖤 WHAT I'M LISTENING
-[![Spotify](https://novatorem-ahmosys.vercel.app/api/spotify)](https://open.spotify.com/user/62o14qn9luk8fag1f2dckp1tm)
+<div align="center">
+  <a href="https://open.spotify.com/user/62o14qn9luk8fag1f2dckp1tm" targer="_noblank" />
+    <img alt="SpotifyNow" src="https://novatorem-ahmosys.vercel.app/api/spotify" />
+  </a>
+</div>
 
 ## 📊 STATS
-
 <table width="100%"> 
   <tr>
   <td width="50%">
