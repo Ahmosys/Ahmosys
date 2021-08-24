@@ -1,7 +1,7 @@
 <div align="center">
   <h2>Hi, I'm Ahmosys !&nbsp;<img alt="EmojiHand" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" heigh="20px"/></h2>
   <img alt="GifTerminalLinux" src="https://i.imgur.com/oGVhsqW.gif" />
-  <h3>French student in South of France.</h3>
+  <h4>French student in South of France.</h4>
 </div>
 
 ## 👨🏼‍💻 KNOWLEDGE
