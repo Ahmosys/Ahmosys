@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hi, I'm Ahmosys! 👋🏾</h2>
+  <h2>Hi, I'm Ahmosys! 👋🏼</h2>
   <img alt="GifTerminalLinux" src="https://i.imgur.com/oGVhsqW.gif" />
 </div>
 
