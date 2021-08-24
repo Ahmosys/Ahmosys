@@ -43,3 +43,18 @@
 ---
 ### 🖤 WHAT I'M LISTENING TO RIGHT NOW
 [![Spotify](https://novatorem-ahmosys.vercel.app/api/spotify)](https://open.spotify.com/user/62o14qn9luk8fag1f2dckp1tm)
+
+
+---
+### 📊 STATS
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+<br /> ![Ahmosys's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmosys&show_icons=true&theme=graywhite)
+  </td>
+    <td width="50%">
+      
+<br /> ![Ahmosys's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmosys&show_icons=true&theme=graywhite&layout=compact)
+  </td>
+    </table>
