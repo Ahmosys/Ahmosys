@@ -41,7 +41,7 @@
 <br />
 
 ---
-### 🖤 WHAT I'M LISTENING TO RIGHT NOW
+### 🖤 WHAT I'M LISTENING
 [![Spotify](https://novatorem-ahmosys.vercel.app/api/spotify)](https://open.spotify.com/user/62o14qn9luk8fag1f2dckp1tm)
 
 
