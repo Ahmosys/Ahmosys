@@ -48,7 +48,7 @@
 
 ## 🖤 WHAT I'M LISTENING
 <div align="center">
-  <a href="https://open.spotify.com/user/62o14qn9luk8fag1f2dckp1tm" targer="_noblank" />
+  <a href="https://open.spotify.com/user/62o14qn9luk8fag1f2dckp1tm" targer="_blank" />
     <img alt="SpotifyNow" src="https://novatorem-ahmosys.vercel.app/api/spotify" />
   </a>
 </div>
