@@ -1,3 +1,8 @@
+<div align="center">
+  <h2>Hi, I'm Ahmosys! 👋🏾</h2>
+  <img alt="GifTerminalLinux" src="https://i.imgur.com/oGVhsqW.gif" />
+</div>
+
 ## KNOWLEDGE 👨🏾‍💻
 ### ➕ OS
 <img align="left" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -6,7 +11,7 @@
 
 <br />
 
----
+
 ### ➕ Languages
 <img align="left" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img align="left" alt="VB.NET" src="https://img.shields.io/badge/VB.NET-6B4683?style=for-the-badge&logo=microsoft&logoColor=white" />
@@ -18,21 +23,21 @@
 
 <br />
 
----
+
 ### ➕ Persistence and Databases
 <img align="left" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" alt="MicrosftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 
 <br />
 
----
+
 ### ➕ Frameworks
 <img align="left" alt="DotNet" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img align="left" alt="Boostrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 <br />
 
----
+
 ### ➕ IDE
 <img align="left" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img align="left" alt="VSStudio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
@@ -40,13 +45,11 @@
 
 <br />
 
----
-### 🖤 WHAT I'M LISTENING
+
+## 🖤 WHAT I'M LISTENING
 [![Spotify](https://novatorem-ahmosys.vercel.app/api/spotify)](https://open.spotify.com/user/62o14qn9luk8fag1f2dckp1tm)
 
-
----
-### 📊 STATS
+## 📊 STATS
 
 <table width="100%"> 
   <tr>
@@ -59,4 +62,3 @@
 <br /> ![Ahmosys's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmosys&show_icons=true&theme=graywhite&layout=compact)
   </td>
   </table>
-
