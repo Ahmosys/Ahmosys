@@ -64,7 +64,7 @@
       
 <br /> ![Ahmosys's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmosys&show_icons=true&theme=graywhite)
   </td>
-    <td width="50%"">
+    <td width="50%">
       
 <br /> ![Ahmosys's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmosys&show_icons=true&theme=graywhite&layout=compact)
   </td>
