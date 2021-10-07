@@ -38,6 +38,7 @@
 ### ➕ Frameworks
 <img align="left" alt="DotNet" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img align="left" alt="Boostrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img align="left" alt="jQuery" src="https://img.shields.io/badge/jquery-0769ad?style=for-the-badge&logo=jquery&logoColor=white" />
 
 <br />
 
