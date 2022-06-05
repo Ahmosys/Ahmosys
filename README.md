@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hi, I'm Ahmosys !&nbsp;<img alt="EmojiHand" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" heigh="20px"/></h2>
+  <h2>Hi, I'm Ahmosys !&nbsp;<img alt="EmojiHand" src="https://i.ibb.co/FHCqh3C/waves.gif"/></h2>
   <img alt="GifTerminalLinux" src="https://i.imgur.com/oGVhsqW.gif" />
   <h4>French student in South of France.</h4>
   
