@@ -1,5 +1,6 @@
 <div align="center">
   <h2>Hi, I'm Ahmosys !&nbsp;<img alt="EmojiHand" src="https://i.ibb.co/FHCqh3C/waves.gif"/></h2>
+  <br />
   <img alt="GifKeyboard" src="https://i.imgur.com/cCkkF0d.gif" />
   <h4>French student in South of France.</h4>
   
