@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hi, I'm Ahmosys !&nbsp;<img alt="EmojiHand" src="https://i.ibb.co/FHCqh3C/waves.gif"/></h2>
-  <img alt="GifTerminalLinux" src="https://i.imgur.com/oGVhsqW.gif" />
+  <img alt="GifKeyboard" src="https://i.imgur.com/cCkkF0d.gif" />
   <h4>French student in South of France.</h4>
   
   ![Profil Views](https://komarev.com/ghpvc/?username=ahmosys&style=flat-square&color=lightgrey)
