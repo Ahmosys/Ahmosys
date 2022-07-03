@@ -55,7 +55,7 @@
 ## ☎️ CONTACT
 <div align="center">
   <a href="https://discord.com/users/283954969416302592" targer="_blank" />
-    <img alt="DiscordProfile" src="https://lanyard.cnrad.dev/api/283954969416302592?theme=black" />
+    <img alt="DiscordProfile" src="https://lanyard.cnrad.dev/api/283954969416302592?theme=light&bg=f6f8fa" />
   </a>
 </div>
 
