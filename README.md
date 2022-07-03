@@ -5,7 +5,7 @@
   <h4>French student in South of France.</h4>
   
   ![Profil Views](https://komarev.com/ghpvc/?username=ahmosys&style=flat-square&color=lightgrey)
-
+  
 </div>
 
 ## 👨🏼‍💻 KNOWLEDGE
@@ -52,15 +52,15 @@
 <br />
 
 
-## 🖤 WHAT I'M LISTENING
+## ☎️ CONTACT
 <div align="center">
-  <a href="https://open.spotify.com/user/62o14qn9luk8fag1f2dckp1tm" targer="_blank" />
-    <img alt="SpotifyNow" src="https://novatorem-ahmosys.vercel.app/api/spotify" />
+  <a href="https://discord.com/users/283954969416302592" targer="_blank" />
+    <img alt="DiscordProfile" src="https://lanyard.cnrad.dev/api/283954969416302592?theme=black" />
   </a>
 </div>
 
 ## 📊 STATS
-<table width="100%"> 
+<table width="100%" align="center"> 
   <tr>
   <td width="50%" align="center">
       
