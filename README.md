@@ -5,6 +5,7 @@
   <h4>French student in South of France.</h4>
   
   ![Profil Views](https://komarev.com/ghpvc/?username=ahmosys&style=flat-square&color=lightgrey)
+  [![wakatime](https://wakatime.com/badge/user/803ddd3b-541d-4d80-91e3-9bab29268d5d.svg?style=flat-square)](https://wakatime.com/@803ddd3b-541d-4d80-91e3-9bab29268d5d)
   
 </div>
 
