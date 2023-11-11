@@ -3,14 +3,15 @@
 <h2 align="left">👋 introduction</h2>
 
 ### 
+![status](https://img.shields.io/badge/status-up-lightgrey) ![gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) [![views](https://komarev.com/ghpvc/?username=ahmosys&color=lightgrey&label=views)](https://github.com/orhun)
 
-<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
+<img align="right" src="https://octodex.github.com/images/hula_loop_octodex03.gif" width="200">
 
   - 🔭 I am currently an apprentice Software Engineer at Ivalua, France.
   - 🎓 I'm currently pursuing Professional Title in IT and Information Systems Expert at EPSI.
   - 🌱 I’m currently learning Vue.js.
   - 🤔 My hobbies are taking walks in nature and working on side projects.
-  - ⚡Fun fact: The 404 error is named after CERN's Room 404, the birthplace of the World Wide Web.
+  - ⚡ Fun fact: The 404 error is named after CERN's Room 404, the birthplace of the World Wide Web.
 ###
 
 <h2 align="left">📈 statistics</h2>
