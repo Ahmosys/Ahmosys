@@ -5,7 +5,7 @@
 ### 
 ![status](https://img.shields.io/badge/status-up-lightgrey) ![gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) [![views](https://komarev.com/ghpvc/?username=ahmosys&color=lightgrey&label=views)](https://github.com/orhun)
 
-<img align="right" src="https://s5.gifyu.com/images/SR2MJ.gif" width="200">
+<img align="right" src="https://s5.gifyu.com/images/SR2pQ.gif" width="250">
 
   - 🔭 I am currently an apprentice Software Engineer at <a href="https://ivalua.com/" target="_blank">Ivalua</a>, France.
   - 🎓 I'm currently pursuing Professional Title in IT and Information Systems Expert at <a href="https://epsi.fr/" target="_blank">EPSI</a>.
