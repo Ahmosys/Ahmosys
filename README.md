@@ -7,8 +7,8 @@
 
 <img align="right" src="https://octodex.github.com/images/hula_loop_octodex03.gif" width="200">
 
-  - 🔭 I am currently an apprentice Software Engineer at Ivalua, France.
-  - 🎓 I'm currently pursuing Professional Title in IT and Information Systems Expert at EPSI.
+  - 🔭 I am currently an apprentice Software Engineer at <a href="https://ivalua.com/" target="_blank">Ivalua</a>, France.
+  - 🎓 I'm currently pursuing Professional Title in IT and Information Systems Expert at <a href="https://epsi.fr/" target="_blank">EPSI</a>.
   - 🌱 I’m currently learning Vue.js.
   - 🤔 My hobbies are taking walks in nature and working on side projects.
   - ⚡ Fun fact: The 404 error is named after CERN's Room 404, the birthplace of the World Wide Web.
