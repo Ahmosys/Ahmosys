@@ -20,37 +20,37 @@
 ###
 <table width="100%">
   <tr>
-    <td>
+    <td style="width: 25%;">
       <div align="left">
-        <p><b>programming languages</b></p>
+        <p><b>Programming Languages</b></p>
         <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo" />
         <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
         <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo" />
         <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" />
       </div>
     </td>
-    <td>
+    <td style="width: 25%;">
       <div align="left">
-        <p><b>libraries and frameworks</b></p>
+        <p><b>Libraries and Frameworks</b></p>
         <img src="https://skillicons.dev/icons?i=symfony" height="30" alt="symfony logo" />
         <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo" />
         <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo" />
         <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jquery logo" />
       </div>
     </td>
-    <td>
+    <td style="width: 25%;">
       <div align="left">
-        <p><b>databases</b></p>
-        <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-        <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />  
+        <p><b>Databases</b></p>
+        <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />
+        <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo" />
       </div>
     </td>
-    <td>
+    <td style="width: 25%;">
       <div align="left">
-        <p><b>devops</b></p>
-        <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
-        <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-        <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="githubactions logo"  />
+        <p><b>DevOps</b></p>
+        <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo" />
+        <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
+        <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="githubactions logo" />
       </div>
     </td>
   </tr>
