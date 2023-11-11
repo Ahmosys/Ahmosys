@@ -1,15 +1,51 @@
-<h4 align="left">📈 Statistics</h4>
+###
+
+<h3 align="left">🔧 languages and tools</h4>
+
+<details>
+  <summary>languages</summary>
+  <img height="20" width="20" src="https://cdn.simpleicons.org/php/" alt="php-icon">
+  <img height="20" width="20" src="https://cdn.simpleicons.org/javascript/" alt="js-icon">
+  <img height="20" width="20" src="https://cdn.simpleicons.org/csharp/" alt="csharp-icon">
+  <img height="20" width="20" src="https://cdn.simpleicons.org/python/" alt="py-icon">
+</details>
+
+<details>
+  <summary>databases</summary>
+  test
+</details>
+
+<details>
+  <summary>frameworks</summary>
+  test
+</details>
+
+<details>
+  <summary>devops</summary>
+  test
+</details>
+
+###
+
+
+<hr>
+
+###
+
+<h3 align="left">📈 statistics</h4>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmosys&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmosys&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmosys&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmosys&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+<hr>
 
 ###
 
-<h4 align="left">📬 Reach me</h4>
+<h3 align="left">📬 reach me</h4>
 
 ###
 
