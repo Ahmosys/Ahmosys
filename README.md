@@ -1,38 +1,21 @@
 ###
 
-<h3 align="left">🔧 languages and tools</h4>
+<h2 align="left">👋 introduction</h4>
 
-<details>
-  <summary>languages</summary>
-  <img height="20" width="20" src="https://cdn.simpleicons.org/php/" alt="php-icon">
-  <img height="20" width="20" src="https://cdn.simpleicons.org/javascript/" alt="js-icon">
-  <img height="20" width="20" src="https://cdn.simpleicons.org/csharp/" alt="csharp-icon">
-  <img height="20" width="20" src="https://cdn.simpleicons.org/python/" alt="py-icon">
-</details>
+### 
 
-<details>
-  <summary>databases</summary>
-  test
-</details>
+<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 
-<details>
-  <summary>frameworks</summary>
-  test
-</details>
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/static/v1?label=wechat&message=secretlzm007&color=7BB32E&logo=wechat) ![](https://visitor-badge.lithub.cc/badge?page_id=github.com/lizheming)
 
-<details>
-  <summary>devops</summary>
-  test
-</details>
-
+  - 🔭 I am currently an apprentice Software Engineer at Ivalua, France.
+  - 🎓 I'm currently pursuing Professional Title in IT and Information Systems Expert at EPSI.
+  - 🌱 I’m currently learning Vue.js.
+  - 🤔 My hobbies are taking walks in nature and working on side projects.
+  - ⚡Fun fact: The 404 error is named after CERN's Room 404, the birthplace of the World Wide Web.
 ###
 
-
-<hr>
-
-###
-
-<h3 align="left">📈 statistics</h4>
+<h2 align="left">📈 statistics</h4>
 
 ###
 
@@ -41,11 +24,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmosys&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<hr>
-
 ###
 
-<h3 align="left">📬 reach me</h4>
+<h2 align="left">📬 reach me</h4>
 
 ###
 
