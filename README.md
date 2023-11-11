@@ -19,7 +19,7 @@
 
 ###
 
-**programming Languages**
+**programming languages**
 **libraries and frameworks**
 **databases**
 **devops**
