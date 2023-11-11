@@ -1,6 +1,6 @@
 ###
 
-<h2 align="left">👋 introduction</h4>
+<h2 align="left">👋 introduction</h2>
 
 ### 
 
@@ -15,7 +15,7 @@
   - ⚡Fun fact: The 404 error is named after CERN's Room 404, the birthplace of the World Wide Web.
 ###
 
-<h2 align="left">📈 statistics</h4>
+<h2 align="left">📈 statistics</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="left">📬 reach me</h4>
+<h2 align="left">📬 reach me</h2>
 
 ###
 
