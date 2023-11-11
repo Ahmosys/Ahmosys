@@ -75,14 +75,14 @@ Ever since I joined GitHub **6** years ago, I pushed **256** commits, opened **1
 
 ###
 <div align="left">
-  <a href="https://twitter.com/ahmosys" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="35" height="20" alt="twitter-logo"  />
+  <a href="https://twitter.com/ahmosys" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="35" height="20" alt="twitter-logo" />
   </a>
-  <a href="https://t.me/ahmosys" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="35" height="20" alt="telegram-logo"  />
+  <a href="https://t.me/ahmosys" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="35" height="20" alt="telegram-logo" />
   </a>
-  <a href="https://discord.com/users/283954969416302592" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="20" alt="discord-logo"  />
+  <a href="https://discord.com/users/283954969416302592" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="20" alt="discord-logo" />
   </a>
 </div>
 
