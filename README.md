@@ -22,7 +22,7 @@
   <tr>
     <td style="width: 25%;">
       <div align="left">
-        <p><b>Programming Languages</b></p>
+        <p><b>programming languages</b></p>
         <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo" />
         <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
         <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo" />
@@ -31,7 +31,7 @@
     </td>
     <td style="width: 25%;">
       <div align="left">
-        <p><b>Libraries and Frameworks</b></p>
+        <p><b>libraries and frameworks</b></p>
         <img src="https://skillicons.dev/icons?i=symfony" height="30" alt="symfony logo" />
         <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo" />
         <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo" />
@@ -40,14 +40,14 @@
     </td>
     <td style="width: 25%;">
       <div align="left">
-        <p><b>Databases</b></p>
+        <p><b>databases</b></p>
         <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />
         <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo" />
       </div>
     </td>
     <td style="width: 25%;">
       <div align="left">
-        <p><b>DevOps</b></p>
+        <p><b>devops</b></p>
         <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo" />
         <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
         <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="githubactions logo" />
