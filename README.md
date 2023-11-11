@@ -65,8 +65,8 @@
 ###
 Ever since I joined GitHub **6** years ago, I pushed **256** commits, opened **12** issues, submitted **56** pull requests, received **4** stars across **12** personal projects, and contributed to **1** public repositories.
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmosys&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1&theme=graywhite" height="150" alt="stats-graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmosys&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2&theme=graywhite" height="150" alt="languages-graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmosys&hide_rank=true&show_icons=true&theme=graywhite" height="150" alt="stats-graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmosys&locale=en&layout=compact&langs_count=5&theme=graywhite" height="150" alt="languages-graph"  />
 </div>
 
 ###
