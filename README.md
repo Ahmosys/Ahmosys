@@ -5,7 +5,7 @@
 ### 
 ![status](https://img.shields.io/badge/status-up-lightgrey) ![gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) [![views](https://komarev.com/ghpvc/?username=ahmosys&color=lightgrey&label=views)](https://github.com/orhun)
 
-<img align="right" src="https://s5.gifyu.com/images/SR2M3.gif" width="200">
+<img align="right" src="https://s5.gifyu.com/images/SR2MJ.gif" width="200">
 
   - 🔭 I am currently an apprentice Software Engineer at <a href="https://ivalua.com/" target="_blank">Ivalua</a>, France.
   - 🎓 I'm currently pursuing Professional Title in IT and Information Systems Expert at <a href="https://epsi.fr/" target="_blank">EPSI</a>.
@@ -65,8 +65,8 @@
 ###
 Ever since I joined GitHub **6** years ago, I pushed **256** commits, opened **12** issues, submitted **56** pull requests, received **4** stars across **12** personal projects, and contributed to **1** public repositories.
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmosys&hide_rank=true&show_icons=true&theme=graywhite" height="150" alt="stats-graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmosys&locale=en&layout=compact&theme=graywhite" height="150" alt="languages-graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmosys&hide_rank=true&show_icons=true&theme=graywhite&card_width=320" height="150" alt="stats-graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmosys&locale=en&layout=compact&langs_count=6&theme=graywhite" height="150" alt="languages-graph"  />
 </div>
 
 ###
