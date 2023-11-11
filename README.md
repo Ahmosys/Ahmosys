@@ -12,6 +12,20 @@
   - 🌱 I’m currently learning Vue.js.
   - 🤔 My hobbies are taking walks in nature and working on side projects.
   - ⚡ Fun fact: The 404 error is named after CERN's Room 404, the birthplace of the World Wide Web.
+
+###
+
+<h2 align="left">🔧 skills set</h2>
+
+###
+
+**programming Languages**
+**libraries and frameworks**
+**databases**
+**devops**
+
+###
+
 ###
 
 <h2 align="left">📈 statistics</h2>
