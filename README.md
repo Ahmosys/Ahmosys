@@ -63,7 +63,7 @@
 <h2 align="left">📈 statistics</h2>
 
 ###
-Ever since I joined GitHub **2** years ago, I pushed **302** commits, opened **2** issues, submitted **23** pull requests, received **2** stars across **26** personal projects, and contributed to **4** public repositories.
+Ever since I joined GitHub **2** years ago, I pushed **302** commits, opened **2** issues, submitted **23** pull requests, received **2** stars across **27** personal projects, and contributed to **4** public repositories.
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmosys&hide_rank=true&show_icons=true&theme=graywhite&card_width=420" height="150" alt="stats-graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmosys&locale=en&layout=compact&langs_count=6&theme=graywhite&card_width=350" height="150" alt="languages-graph"  />
