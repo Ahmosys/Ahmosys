@@ -34,6 +34,7 @@
         <p><b>libraries and frameworks</b></p>
         <img src="https://skillicons.dev/icons?i=symfony" height="30" alt="symfony-logo" />
         <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net-logo" />
+        <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vue-logo" />
         <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap-logo" />
         <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jquery-logo" />
       </div>
@@ -50,6 +51,7 @@
         <p><b>devops</b></p>
         <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash-logo" />
         <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker-logo" />
+        <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="k8s-logo" />
         <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="githubactions-logo" />
       </div>
     </td>
