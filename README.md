@@ -34,7 +34,6 @@
         <p><b>libraries and frameworks</b></p>
         <img src="https://skillicons.dev/icons?i=symfony" height="30" alt="symfony-logo" />
         <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net-logo" />
-        <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vue-logo" />
         <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap-logo" />
         <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jquery-logo" />
       </div>
@@ -51,7 +50,6 @@
         <p><b>devops</b></p>
         <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash-logo" />
         <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker-logo" />
-        <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="k8s-logo" />
         <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="githubactions-logo" />
       </div>
     </td>
@@ -65,7 +63,7 @@
 <h2 align="left">📈 statistics</h2>
 
 ###
-Ever since I joined GitHub **3** years ago, I pushed **421** commits, opened **3** issues, submitted **32** pull requests, received **7** stars across **29** personal projects, and contributed to **2** public repositories.
+Ever since I joined GitHub **3** years ago, I pushed **422** commits, opened **3** issues, submitted **32** pull requests, received **7** stars across **29** personal projects, and contributed to **2** public repositories.
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmosys&hide_rank=true&show_icons=true&theme=graywhite&card_width=420" height="150" alt="stats-graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmosys&locale=en&layout=compact&langs_count=6&theme=graywhite&card_width=350" height="150" alt="languages-graph"  />
