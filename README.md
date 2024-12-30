@@ -1,5 +1,7 @@
 ###
 
+<img src="header.png" alt="header-banner">
+
 <h2 align="left">👋 introduction</h2>
 
 ### 
