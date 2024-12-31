@@ -1,5 +1,7 @@
 ###
 
+<img align="" src="banner-animodji-v2.png">
+
 <h2 align="left">👋 introduction</h2>
 
 ### 
