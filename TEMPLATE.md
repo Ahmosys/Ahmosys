@@ -1,6 +1,6 @@
 ###
 
-<img align="" src="banner-animodji-v2.png">
+<img align="" src="banner-animodji-v2.png" alt="header-banner">
 
 <h2 align="left">👋 introduction</h2>
 
@@ -10,7 +10,7 @@
   - 🔭 I am currently an apprentice Software Engineer at <a href="https://ivalua.com/" target="_blank">Ivalua</a>, France.
   - 🎓 I'm currently pursuing Professional Title in IT and Information Systems Expert at <a href="https://epsi.fr/" target="_blank">EPSI</a>.
   - 🌱 I’m currently learning Vue.js.
-  - 🤔 My hobbies are taking walks in nature and working on side projects.
+  - 🤔 My hobbies are running 🏃🏼, hiking 🚶🏼 and working 🧑🏼‍💻 on side projects.
   - ⚡ Fun fact: The 404 error is named after CERN's Room 404, the birthplace of the World Wide Web.
 
 ### 
@@ -32,9 +32,11 @@
     <td style="width: 25%;">
       <div align="left">
         <p><b>libraries and frameworks</b></p>
+        <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vue-logo" />
         <img src="https://skillicons.dev/icons?i=symfony" height="30" alt="symfony-logo" />
         <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net-logo" />
         <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap-logo" />
+        <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind-logo" />
         <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jquery-logo" />
       </div>
     </td>
@@ -79,10 +81,10 @@ Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMIT
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="35" height="20" alt="twitter-logo" />
   </a>
   <a href="https://t.me/ahmosys" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" style="text-decoration: none;" width="35" height="20" alt="telegram-logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="35" height="20" alt="telegram-logo" />
   </a>
   <a href="https://discord.com/users/283954969416302592" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" style="text-decoration: none;" width="35" height="20" alt="discord-logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="20" alt="discord-logo" />
   </a>
 </div>
 
