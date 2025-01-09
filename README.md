@@ -7,11 +7,15 @@
 ### 
 ![status](https://img.shields.io/badge/status-up-lightgrey) ![gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) [![views](https://komarev.com/ghpvc/?username=ahmosys&color=lightgrey&label=views)](https://github.com/orhun)
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="bongo-cat" width="150">
+
   - 🔭 I am currently an apprentice Software Engineer at <a href="https://ivalua.com/" target="_blank">Ivalua</a>, France.
   - 🎓 I'm currently pursuing Professional Title in IT and Information Systems Expert at <a href="https://epsi.fr/" target="_blank">EPSI</a>.
   - 🌱 I’m currently learning Vue.js.
   - 🤔 My hobbies are running 🏃🏼, hiking 🚶🏼 and working 🧑🏼‍💻 on side projects.
   - ⚡ Fun fact: The 404 error is named after CERN's Room 404, the birthplace of the World Wide Web.
+
+
 
 ### 
 
@@ -65,7 +69,7 @@
 <h2 align="left">📈 statistics</h2>
 
 ###
-Ever since I joined GitHub **3** years ago, I pushed **483** commits, opened **3** issues, submitted **34** pull requests, received **6** stars across **33** personal projects, and contributed to **5** public repositories.
+Ever since I joined GitHub **3** years ago, I pushed **484** commits, opened **3** issues, submitted **34** pull requests, received **6** stars across **33** personal projects, and contributed to **5** public repositories.
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmosys&hide_rank=true&show_icons=true&theme=graywhite&card_width=420" height="150" alt="stats-graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmosys&locale=en&layout=compact&langs_count=6&theme=graywhite&card_width=350" height="150" alt="languages-graph"  />
