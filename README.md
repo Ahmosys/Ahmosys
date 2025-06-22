@@ -75,6 +75,15 @@ Ever since I joined GitHub **4** years ago, I pushed **560** commits, opened **5
 
 ###
 
+<h2 align="left">🏃🏼 sporty spice</h2>
+
+###
+<div align="left">
+  <img src="https://strava.ahmosys.dev/files/pb-run-badge.svg" height="250" alt="stats-graph-running"  />
+</div>
+
+###
+
 <h2 align="left">📬 reach me</h2>
 
 ###
