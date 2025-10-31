@@ -7,8 +7,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="bongo-cat" width="150">
 
-  - 🔭 I am currently an apprentice Software Engineer at <a href="https://ivalua.com/" target="_blank">Ivalua</a>, France.
-  - 🎓 I'm currently pursuing Professional Title in IT and Information Systems Expert at <a href="https://epsi.fr/" target="_blank">EPSI</a>.
+  - 🔭 I am currently an Associate Software Engineer at <a href="https://ivalua.com/" target="_blank">Ivalua</a>, France.
   - 🌱 I’m currently learning Vue.js.
   - 🤔 My hobbies are running 🏃🏼, hiking 🚶🏼 and working 🧑🏼‍💻 on side projects.
   - ⚡ Fun fact: The 404 error is named after CERN's Room 404, the birthplace of the World Wide Web.
@@ -67,7 +66,7 @@
 <h2 align="left">📈 statistics</h2>
 
 ###
-Ever since I joined GitHub **4** years ago, I pushed **567** commits, opened **5** issues, submitted **38** pull requests, received **11** stars across **44** personal projects, and contributed to **5** public repositories.
+Ever since I joined GitHub **4** years ago, I pushed **570** commits, opened **5** issues, submitted **38** pull requests, received **12** stars across **45** personal projects, and contributed to **2** public repositories.
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmosys&hide_rank=true&show_icons=true&theme=graywhite&card_width=420" height="150" alt="stats-graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmosys&locale=en&layout=compact&langs_count=6&theme=graywhite&card_width=350" height="150" alt="languages-graph"  />
