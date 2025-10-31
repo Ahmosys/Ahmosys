@@ -7,8 +7,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="bongo-cat" width="150">
 
-  - 🔭 I am currently an apprentice Software Engineer at <a href="https://ivalua.com/" target="_blank">Ivalua</a>, France.
-  - 🎓 I'm currently pursuing Professional Title in IT and Information Systems Expert at <a href="https://epsi.fr/" target="_blank">EPSI</a>.
+  - 🔭 I am currently an Associate Software Engineer at <a href="https://ivalua.com/" target="_blank">Ivalua</a>, France.
   - 🌱 I’m currently learning Vue.js.
   - 🤔 My hobbies are running 🏃🏼, hiking 🚶🏼 and working 🧑🏼‍💻 on side projects.
   - ⚡ Fun fact: The 404 error is named after CERN's Room 404, the birthplace of the World Wide Web.
