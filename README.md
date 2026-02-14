@@ -62,7 +62,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmosys&theme=transparent&hide_border=true&ring=555555&fire=333333&currStreakLabel=333333&sideLabels=555555&currStreakNum=333333&sideNums=555555&dates=888888&stroke=e4e2e2" height="160" alt="streak-stats" />
 </a>
 
-<br><br>
+<br>
 <img src="./line.svg" width="75%" />
 <br><br>
 
