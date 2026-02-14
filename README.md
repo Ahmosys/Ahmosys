@@ -6,7 +6,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=300&lines=currently+learning+vue.js;building+things+at+ivalua;running+%26+hiking+when+afk" alt="Typing SVG" /></a>
 
-<br>
+<br><br>
 <img src="./line.svg" width="75%" />
 <br><br>
 
