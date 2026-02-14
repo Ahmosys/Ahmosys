@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:555555&height=180&section=header&text=Ahmosys&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=associate%20software%20engineer%20%C2%B7%20ivalua%20%C2%B7%20france&descSize=14&descColor=cccccc&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2b2b2b&height=180&section=header&text=ahmosys&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=associate%20software%20engineer%20%C2%B7%20ivalua%20%C2%B7%20france&descSize=14&descColor=cccccc&descAlignY=55&animation=fadeIn" width="100%" />
 
 <br>
 
@@ -62,7 +62,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmosys&theme=transparent&hide_border=true&ring=555555&fire=333333&currStreakLabel=333333&sideLabels=555555&currStreakNum=333333&sideNums=555555&dates=888888&stroke=e4e2e2" height="160" alt="streak-stats" />
 </a>
 
-<br>
+<br><br>
 <img src="./line.svg" width="75%" />
 <br><br>
 
@@ -72,6 +72,6 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:555555&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2b2b2b&height=100&section=footer" width="100%" />
 
 </div>
