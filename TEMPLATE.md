@@ -60,7 +60,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmosys&theme=transparent&hide_border=true&ring=555555&fire=333333&currStreakLabel=333333&sideLabels=555555&currStreakNum=333333&sideNums=555555&dates=888888&stroke=e4e2e2" height="160" alt="streak-stats" />
 </a>
 
-<br><br><br>
+##
 
 [![Twitter](https://img.shields.io/badge/@ahmosys-2b2b2b?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ahmosys)&nbsp;
 [![Telegram](https://img.shields.io/badge/@ahmosys-2b2b2b?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ahmosys)&nbsp;
