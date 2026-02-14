@@ -6,11 +6,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=450&lines=currently+learning+vue.js;building+things+at+ivalua;running+%26+hiking+when+afk" alt="Typing SVG" /></a>
 
-</div>
 
----
-
-<div align="center">
+<img src="./line.svg" width="75%" />
 
 <table>
 <tr>
@@ -56,21 +53,15 @@
 </tr>
 </table>
 
-</div>
 
----
-
-<div align="center">
+<img src="./line.svg" width="75%" />
 
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=ahmosys">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmosys&theme=transparent&hide_border=true&ring=555555&fire=333333&currStreakLabel=333333&sideLabels=555555&currStreakNum=333333&sideNums=555555&dates=888888&stroke=e4e2e2" height="160" alt="streak-stats" />
 </a>
 
-</div>
 
----
-
-<div align="center">
+<img src="./line.svg" width="75%" />
 
 [![Twitter](https://img.shields.io/badge/@ahmosys-2b2b2b?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ahmosys)&nbsp;
 [![Telegram](https://img.shields.io/badge/@ahmosys-2b2b2b?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ahmosys)&nbsp;
